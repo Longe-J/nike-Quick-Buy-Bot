@@ -1,0 +1,15 @@
+{
+  "name": "nike-quick-buy-bot",
+  "version": "1.0.0",
+  "description": "So this is my attempt at a bot that will go to nike's snkr website at a specific time and buy a specific pair of shoes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.11.0"
+  }
+}
